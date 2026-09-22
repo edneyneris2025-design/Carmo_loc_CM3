@@ -1,0 +1,6 @@
+{
+  "name": "DXF Mapa Satélite Móvel",
+  "description": "Visualizador e manipulador de projetos DXF 2D sobre mapa de satélite em tela cheia com painel lateral de translação, rotação e escala.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
